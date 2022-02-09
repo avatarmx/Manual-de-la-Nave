@@ -1,2 +1,2 @@
 # Introduccion-Python
-Instalacion de Python e introducción a Python
+Instalacion e Instroduccion a Python.
